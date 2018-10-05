@@ -4,10 +4,12 @@ Artificial Intelligence for Robotics course from Udacity
 ------------------------------------------------------------------------------------
 My solutions to the assignments ordered in directories.
 
-Localization
-Kalman Filters
-Particle Filters
-Search
-PID Control
-Exam
+
+
+Localization <br \>
+Kalman Filters <br \>
+Particle Filters <br \>
+Search <br \>
+PID Control <br \>
+Exam <br \>
 Runaway Robot
